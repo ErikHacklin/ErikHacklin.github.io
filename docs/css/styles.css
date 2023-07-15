@@ -1,0 +1,12 @@
+body {
+  background-color: #0C0E0F;
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+
+div.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2ch;
+}
